@@ -15,6 +15,7 @@ var cartaMagic = {
         numeroEspansione: 10,
         nome: '',
         rarità: 'rara',
+        nunFineCollezione: 250,
     },
 
     textAbilita: [
@@ -23,7 +24,19 @@ var cartaMagic = {
             abilitàSecondaria: 'il Colosso di Darksteel è indistruttibile',
             abiliàTerziaria: 'Se Colosso di Darksteel sta per essere messo in un cimitero...'
         }
-    ]
+    ],
+    
+    autoreCarta:{
+        
+        nome: 'Carl',
+        surname: 'Critchol',
+
+    },
+
+    numcollezione: 208,
+    attacco: 11,
+    difesa: 11,
+
 
 
     costoManaCarta : 
