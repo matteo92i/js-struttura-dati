@@ -16,7 +16,15 @@ var cartaMagic = {
         nome: '',
         rarità: 'rara',
     },
-    
+
+    textAbilita: [
+        {
+            abilitàPrincipale: 'Travolgere',
+            abilitàSecondaria: 'il Colosso di Darksteel è indistruttibile',
+            abiliàTerziaria: 'Se Colosso di Darksteel sta per essere messo in un cimitero...'
+        }
+    ]
+
 
     costoManaCarta : 
     function() {
